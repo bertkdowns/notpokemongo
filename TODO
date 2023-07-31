@@ -1,0 +1,20 @@
+
+Database:
+    - plan format of places database/chunks
+    - implement mongodb database for chunks
+    - database for objects we can add to map / that are generated
+UI:
+    - make the ui for the modal
+    - make a sort of "card" component
+    - make the missionsScreen, inventory screen, pending screen
+
+Images:
+    - background tiling image 
+    - images for stone deposits, forests, ore deposits, etc
+
+Map:
+    - custom icons
+    - circles for explored places
+    - location api
+    - detect which chunks are onscreen and just load those  
+    - "pan to" button
